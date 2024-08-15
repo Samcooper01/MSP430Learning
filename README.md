@@ -1,2 +1,2 @@
 # MSP430Learning
-All the independent learning I've done on the MSP430 is saved here.
+Projects for: https://www.ti.com/tool/MSP-EXP430FR2311?HQS=epd-mcu-msp-framhighlow-mspblog-20161027-tf-fr2x1-wwe&utm_source=google&utm_medium=cpc&utm_campaign=epd-msp-null-44700045336317335_prodfolderdynamic-cpc-pf-google-wwe_int&utm_content=prodfolddynamic&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gad_source=1&gclid=Cj0KCQjwzva1BhD3ARIsADQuPnUgMzehE0l4H-NxBcBz7Z80dguG_wQxQjpesPb9EFGZ1oTLOJgY1QcaAiUVEALw_wcB&gclsrc=aw.ds
